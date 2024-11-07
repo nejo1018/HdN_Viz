@@ -1,14 +1,14 @@
 ._1a2_kg {
     stroke-dasharray: 220;
     stroke-dashoffset: 220;
-    animation: d_1a2_kg 3s linear forwards;
+    animation: d_1a2_kg 2s linear forwards;
   }
 
-  /* Linie von rechts nach links zeichnen */
+
   ._1a2_gk {
-    stroke-dasharray: 220; /* Gleicher gestrichelter Pfad wie oben */
-    stroke-dashoffset: -220; /* Startet "unsichtbar", weil der Versatz negativ ist */
-    animation: d_1a2_gk 3s linear forwards; /* Animiert das Zeichnen */
+    stroke-dasharray: 220; 
+    stroke-dashoffset: -220; 
+    animation: d_1a2_gk 2s linear forwards;
   }
 
   @keyframes d_1a2_kg {
@@ -35,14 +35,14 @@
   ._1e3_kg {
     stroke-dasharray: 330;
     stroke-dashoffset: 330;
-    animation: d_1a2_kg 3s linear forwards;
+    animation: d_1a2_kg 2s linear forwards;
   }
 
  
   ._1e3_gk {
     stroke-dasharray: 330; 
     stroke-dashoffset: -330; 
-    animation: d_1a2_gk 3s linear forwards;
+    animation: d_1a2_gk 2s linear forwards;
   }
 
   @keyframes d_1e3_kg {
@@ -68,14 +68,14 @@
   ._1d4_kg {
     stroke-dasharray: 330;
     stroke-dashoffset: 330;
-    animation: d_1d4_kg 3s linear forwards;
+    animation: d_1d4_kg 2s linear forwards;
   }
 
  
   ._1d4_gk {
     stroke-dasharray: 330; 
     stroke-dashoffset: -330; 
-    animation: d_1d4_gk 3s linear forwards;
+    animation: d_1d4_gk 2s linear forwards;
   }
 
   @keyframes d_1d4_kg {
@@ -102,14 +102,14 @@
   ._2b3_kg {
     stroke-dasharray: 330;
     stroke-dashoffset: 330;
-    animation: d_2b3_kg 3s linear forwards;
+    animation: d_2b3_kg 2s linear forwards;
   }
 
  
   ._2b3_gk {
     stroke-dasharray: 330; 
     stroke-dashoffset: -330; 
-    animation: d_2b3_gk 3s linear forwards;
+    animation: d_2b3_gk 2s linear forwards;
   }
 
   @keyframes d_2b3_kg {
@@ -133,14 +133,14 @@
   ._2f4_kg {
     stroke-dasharray: 330;
     stroke-dashoffset: 330;
-    animation: d_2f4_kg 3s linear forwards;
+    animation: d_2f4_kg 2s linear forwards;
   }
 
  
   ._2f4_gk {
     stroke-dasharray: 330; 
     stroke-dashoffset: -330; 
-    animation: d_2f4_gk 3s linear forwards;
+    animation: d_2f4_gk 2s linear forwards;
   }
 
   @keyframes d_2f4_kg {
@@ -162,14 +162,14 @@
   ._3c4_kg {
     stroke-dasharray: 330;
     stroke-dashoffset: 330;
-    animation: d_3c4_kg 3s linear forwards;
+    animation: d_3c4_kg 2s linear forwards;
   }
 
  
   ._3c4_gk {
     stroke-dasharray: 330; 
     stroke-dashoffset: -330; 
-    animation: d_3c4_gk 3s linear forwards;
+    animation: d_3c4_gk 2s linear forwards;
   }
 
   @keyframes d_3c4_kg {
@@ -196,14 +196,14 @@
   ._3h5_kg {
     stroke-dasharray: 330;
     stroke-dashoffset: 330;
-    animation: d_3h5_kg 3s linear forwards;
+    animation: d_3h5_kg 2s linear forwards;
   }
 
  
   ._3h5_gk {
     stroke-dasharray: 330; 
     stroke-dashoffset: -330; 
-    animation: d_3h5_gk 3s linear forwards;
+    animation: d_3h5_gk 2s linear forwards;
   }
 
   @keyframes d_3h5_kg {
@@ -231,14 +231,14 @@
   ._4g5_kg {
     stroke-dasharray: 330;
     stroke-dashoffset: 330;
-    animation: d_4g5_kg 3s linear forwards;
+    animation: d_4g5_kg 2s linear forwards;
   }
 
  
   ._4g5_gk {
     stroke-dasharray: 330; 
     stroke-dashoffset: -330; 
-    animation: d_4g5_gk 3s linear forwards;
+    animation: d_4g5_gk 2s linear forwards;
   }
 
   @keyframes d_4g5_kg {

@@ -8,7 +8,7 @@
 .header {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center; /* Zentriert den Inhalt */
     align-items: center;  
     background-color: #f2ebe9;
     color: #000000;
@@ -23,14 +23,28 @@
 
 .barLeft {
     background-color: #eddcd9;
-    flex-grow: 0;
+    flex-grow: 1;
     padding: 40px;
+    justify-content: flex-start; /* Zentriert horizontal */
+    align-items: flex-start; /* Zentriert vertikal */
     display: flex;
     flex-direction: column;
 }
 
-.main{
+.main {
+    display: flex;
+    flex-direction: column; /* Richtet die Elemente untereinander an */
+    align-items: center; /* Optional: Zentriert die Elemente horizontal */
+    gap: 20px; /* Optional: Abstand zwischen den beiden Elementen */
+}
+
+.rightbar{
+    background-color: #eddcd9;
     flex-grow: 1;
-    position: relative;
+    padding: 40px;
+    justify-content: flex-start; /* Zentriert horizontal */
+    align-items: flex-start; /* Zentriert vertikal */
+    display: flex;
     flex-direction: column;
 }
+

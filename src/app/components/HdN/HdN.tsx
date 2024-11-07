@@ -21,14 +21,6 @@ interface HdNProps{
     v3c4: boolean;
     v3h5: boolean;
     v4g5: boolean;
-    handleV1d4: (bol: boolean) => void;
-    handleV1a2: (bol: boolean) => void;
-    handleV1e3: (bol: boolean) => void;
-    handleV2b3: (bol: boolean) => void;
-    handleV2f4: (bol: boolean) => void;
-    handleV3c4: (bol: boolean) => void;
-    handleV3h5: (bol: boolean) => void;
-    handleV4g5: (bol: boolean) => void;
     d1d4: string;
     d1a2: string;
     d1e3: string;
@@ -37,14 +29,6 @@ interface HdNProps{
     d3c4: string;
     d3h5: string;
     d4g5: string;
-    handleD1d4: (str: string) => void;
-    handleD1a2: (str: string) => void;
-    handleD1e3: (str: string) => void;
-    handleD2b3: (str: string) => void;
-    handleD2f4: (str: string) => void;
-    handleD3c4: (str: string) => void;
-    handleD3h5: (str: string) => void;
-    handleD4g5: (str: string) => void;
 }
 
 
@@ -60,14 +44,6 @@ export default function HdN({
     v3c4,
     v3h5,
     v4g5,
-    handleV1d4,
-    handleV1a2,
-    handleV1e3,
-    handleV2b3,
-    handleV2f4,
-    handleV3c4,
-    handleV3h5,
-    handleV4g5,
     d1d4,
     d1a2,
     d1e3,
@@ -75,15 +51,7 @@ export default function HdN({
     d2f4,
     d3c4,
     d3h5,
-    d4g5,
-    handleD1d4,
-    handleD1a2,
-    handleD1e3,
-    handleD2b3,
-    handleD2f4,
-    handleD3c4,
-    handleD3h5,
-    handleD4g5
+    d4g5
 }: HdNProps){
 
 

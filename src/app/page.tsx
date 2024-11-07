@@ -98,82 +98,62 @@ export default function Home() {
   return (
     <div className="master">
         <div className="header">
-        <p>Header</p>
+          <p>Haus des Nikolaus</p>
         </div>
 
         <div className="content">
           <div className="barLeft">
-            <Btn 
-            v1d4={v1d4}
-            v1a2={v1a2}
-            v1e3={v1e3}
-            v2b3={v2b3}
-            v2f4={v2f4}
-            v3c4={v3c4}
-            v3h5={v3h5}
-            v4g5={v4g5}
-            handleV1d4={handleV1d4}
-            handleV1a2={handleV1a2}
-            handleV1e3={handleV1e3}
-            handleV2b3={handleV2b3}
-            handleV2f4={handleV2f4}
-            handleV3c4={handleV3c4}
-            handleV3h5={handleV3h5}
-            handleV4g5={handleV4g5}            
-            d1a2={d1a2}
-            d1e3={d1e3}
-            d1d4={d1d4}
-            d2b3={d2b3}
-            d2f4={d2f4}
-            d3c4={d3c4}
-            d3h5={d3h5}
-            d4g5={d4g5}
-            handleD1d4={handleD1d4}
-            handleD1a2={handleD1a2}
-            handleD1e3={handleD1e3}
-            handleD2b3={handleD2b3}
-            handleD2f4={handleD2f4}
-            handleD3c4={handleD3c4}
-            handleD3h5={handleD3h5}
-            handleD4g5={handleD4g5}
-            />
+            
           </div>
           <div className="main">
-            <HdN 
-              v1d4={v1d4}
-              v1a2={v1a2}
-              v1e3={v1e3}
-              v2b3={v2b3}
-              v2f4={v2f4}
-              v3c4={v3c4}
-              v3h5={v3h5}
-              v4g5={v4g5}
-              handleV1d4={handleV1d4}
-              handleV1a2={handleV1a2}
-              handleV1e3={handleV1e3}
-              handleV2b3={handleV2b3}
-              handleV2f4={handleV2f4}
-              handleV3c4={handleV3c4}
-              handleV3h5={handleV3h5}
-              handleV4g5={handleV4g5}
-              d1a2={d1a2}
-              d1e3={d1e3}
-              d1d4={d1d4}
-              d2b3={d2b3}
-              d2f4={d2f4}
-              d3c4={d3c4}
-              d3h5={d3h5}
-              d4g5={d4g5}
-              handleD1d4={handleD1d4}
-              handleD1a2={handleD1a2}
-              handleD1e3={handleD1e3}
-              handleD2b3={handleD2b3}
-              handleD2f4={handleD2f4}
-              handleD3c4={handleD3c4}
-              handleD3h5={handleD3h5}
-              handleD4g5={handleD4g5}
-            />
+            <div className="HdnB">
+              <HdN 
+                v1d4={v1d4}
+                v1a2={v1a2}
+                v1e3={v1e3}
+                v2b3={v2b3}
+                v2f4={v2f4}
+                v3c4={v3c4}
+                v3h5={v3h5}
+                v4g5={v4g5}
+                d1a2={d1a2}
+                d1e3={d1e3}
+                d1d4={d1d4}
+                d2b3={d2b3}
+                d2f4={d2f4}
+                d3c4={d3c4}
+                d3h5={d3h5}
+                d4g5={d4g5}
+              />
+            </div>
+
+            <div className="BtnB">
+              <Btn 
+                handleV1d4={handleV1d4}
+                handleV1a2={handleV1a2}
+                handleV1e3={handleV1e3}
+                handleV2b3={handleV2b3}
+                handleV2f4={handleV2f4}
+                handleV3c4={handleV3c4}
+                handleV3h5={handleV3h5}
+                handleV4g5={handleV4g5}            
+                handleD1d4={handleD1d4}
+                handleD1a2={handleD1a2}
+                handleD1e3={handleD1e3}
+                handleD2b3={handleD2b3}
+                handleD2f4={handleD2f4}
+                handleD3c4={handleD3c4}
+                handleD3h5={handleD3h5}
+                handleD4g5={handleD4g5}
+              />
+            </div>
           </div>
+
+
+          <div className="rightbar">
+
+          </div>
+
         </div>
        
     </div>
