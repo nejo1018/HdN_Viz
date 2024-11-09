@@ -175,7 +175,7 @@ export default function ContainedButtons({
       for (let j = 0; j < 9; j++) {
 
        // if (exitApp === false) { NOT WORKING 
-          console.log(exitApp);
+          //console.log(exitApp);
 
           switch (ergebnis[j]) {
 

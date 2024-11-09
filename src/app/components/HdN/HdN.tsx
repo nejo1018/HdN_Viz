@@ -78,21 +78,21 @@ export default function HdN({
         <svg width="282" height="368" viewBox="0 0 282 368" fill="none" xmlns="http://www.w3.org/2000/svg">
         <rect width="282" height="368" fill="white"/>
 
-        {v1a2 === true ? ( <_1a2 drawS={d1a2} /> ) : ( null )}
+        {v1a2 === true ? ( <_1a2 drawS={d1a2} c1a2={c1a2} /> ) : ( null )}
 
-        {v1d4 === true ? ( <_1d4 drawS={d1d4} /> ) : ( null )}
+        {v1d4 === true ? ( <_1d4 drawS={d1d4} c1d4={c1d4}/> ) : ( null )}
 
-        {v1e3 === true ? ( <_1e3 drawS={d1e3} /> ) : ( null )}
+        {v1e3 === true ? ( <_1e3 drawS={d1e3} c1e3={c1e3}/> ) : ( null )}
 
-        {v2b3 === true ? ( <_2b3 drawS={d2b3} /> ) : ( null )}
+        {v2b3 === true ? ( <_2b3 drawS={d2b3} c2b3={c2b3}/> ) : ( null )}
 
-        {v2f4 === true ? ( <_2f4 drawS={d2f4} />) : ( null )}  
+        {v2f4 === true ? ( <_2f4 drawS={d2f4} c2f4={c2f4}/>) : ( null )}  
 
-        {v3c4 === true ? ( <_3c4 drawS={d3c4}/> ) : ( null )}  
+        {v3c4 === true ? ( <_3c4 drawS={d3c4} c3c4={c3c4}/> ) : ( null )}  
 
-        {v3h5 === true ? ( <_3h5 drawS={d3h5} /> ) : ( null )}
+        {v3h5 === true ? ( <_3h5 drawS={d3h5} c3h5={c3h5}/> ) : ( null )}
 
-        {v4g5 === true ? ( <_4g5 drawS={d4g5} /> ) : ( null )}         
+        {v4g5 === true ? ( <_4g5 drawS={d4g5} c4g5={c4g5}/> ) : ( null )}         
   
         </svg>
     )
