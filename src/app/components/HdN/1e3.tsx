@@ -9,6 +9,6 @@ interface HdnProps{
 
 export default function HdN({drawS}: HdnProps){
     return (
-        <line className={styles[drawS]} id="_1e3" x1="26.9563" y1="353.923" x2="250.956" y2="136.923" stroke="black" stroke-width="3"/>        
+        <line className={styles[drawS]} id="_1e3" x1="26.9563" y1="353.923" x2="250.956" y2="136.923" stroke="black" strokeWidth="3"/>        
     )
 }

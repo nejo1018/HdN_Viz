@@ -29,6 +29,14 @@ interface HdNProps{
     d3c4: string;
     d3h5: string;
     d4g5: string;
+    c1d4: string;
+    c1a2: string;
+    c1e3: string;
+    c2b3: string;
+    c2f4: string;
+    c3c4: string;
+    c3h5: string;
+    c4g5: string;
 }
 
 
@@ -51,7 +59,15 @@ export default function HdN({
     d2f4,
     d3c4,
     d3h5,
-    d4g5
+    d4g5,
+    c1d4,
+    c1a2,
+    c1e3,
+    c2b3,
+    c2f4,
+    c3c4,
+    c3h5,
+    c4g5
 }: HdNProps){
 
 

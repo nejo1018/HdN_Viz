@@ -1,15 +1,15 @@
 <svg width="282" height="368" viewBox="0 0 282 368" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="282" height="368" fill="white"/>
-<line x1="26.5002" y1="354.973" x2="30.4996" y2="135.009" stroke="black" stroke-width="3"/>
-<line x1="248.5" y1="354.936" x2="252.5" y2="134.973" stroke="black" stroke-width="3"/>
-<line x1="32" y1="136.5" x2="252" y2="136.5" stroke="black" stroke-width="3"/>
-<line x1="26.9563" y1="353.923" x2="250.956" y2="136.923" stroke="black" stroke-width="3"/>
+<line x1="26.5002" y1="354.973" x2="30.4996" y2="135.009" stroke="black" strokeWidth="3"/>
+<line x1="248.5" y1="354.936" x2="252.5" y2="134.973" stroke="black" strokeWidth="3"/>
+<line x1="32" y1="136.5" x2="252" y2="136.5" stroke="black" strokeWidth="3"/>
+<line x1="26.9563" y1="353.923" x2="250.956" y2="136.923" stroke="black" strokeWidth="3"/>
 <g filter="url(#filter0_d_2_2)">
-<line x1="252.998" y1="135.958" x2="136.914" y2="14.0343" stroke="black" stroke-width="3"/>
+<line x1="252.998" y1="135.958" x2="136.914" y2="14.0343" stroke="black" strokeWidth="3"/>
 </g>
-<line x1="29.8814" y1="136.001" x2="138.881" y2="14.0006" stroke="black" stroke-width="3"/>
-<line x1="31.0587" y1="136.937" x2="247.966" y2="353.027" stroke="black" stroke-width="3"/>
-<line x1="28" y1="353.5" x2="248" y2="353.5" stroke="black" stroke-width="3"/>
+<line x1="29.8814" y1="136.001" x2="138.881" y2="14.0006" stroke="black" strokeWidth="3"/>
+<line x1="31.0587" y1="136.937" x2="247.966" y2="353.027" stroke="black" strokeWidth="3"/>
+<line x1="28" y1="353.5" x2="248" y2="353.5" stroke="black" strokeWidth="3"/>
 <defs>
 <filter id="filter0_d_2_2" x="131.827" y="13" width="126.257" height="131.992" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
