@@ -9,6 +9,6 @@ interface HdNProps {
 
 export default function HdN({drawS}: HdNProps){
     return (
-        <line className={styles[drawS]} id="_1d4" x1="26.5002" y1="354.973" x2="30.4996" y2="135.009" stroke="black" stroke-width="3"/>
+        <line className={styles[drawS]} id="_1d4" x1="26.5002" y1="354.973" x2="30.4996" y2="135.009" stroke="black" strokeWidth="3"/>
     )
 }
